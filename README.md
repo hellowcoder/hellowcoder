@@ -1,43 +1,24 @@
-# Welcome to [hellowcoder](https://github.com/hellowcoder)'s Repository
 
-## Hi there! 👋
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/s_andeep.cpp) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:iitianias@gmail.com) 
 
-I'm Sandeep Kumar, a Computer Science and Engineering Undergrad from IIT Dhanbad with a passion for competitive programming and Dev . Here, you'll find various projects that I've worked on.
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=hellowcoder&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=hellowcoder&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=hellowcoder&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
----
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=hellowcoder&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-## 🌟 Projects
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 1.Basic Login backend
-
-
----
-
-## 🔧 Technical Skills
-
-**Languages:**  
-[![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
-[![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
-
-
-**Version Control:**  
-[![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/)
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=hellowcoder&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=hellowcoder&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 📫 Get in Touch
-
-- **Email:** iitianias@gmail.com
-- **LinkedIn:** [sandeep](https://www.linkedin.com/in/sandeep-kumar-554285311/)
-
----
-
-
-
-
-## 🌱 Let's Grow Together
-
-Thank you for visiting my repository! If you find my projects useful or interesting, please give them a star ⭐. Your support and feedback are greatly appreciated!
-
-Happy coding! 😊
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
